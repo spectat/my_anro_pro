@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner_test</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="days">
+    <item>monday</item>
+        <item>tuesday</item>
+    </string-array>
+</resources>
